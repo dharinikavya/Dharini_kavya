@@ -1,0 +1,15 @@
+.img{
+  width:300px;
+  height:300px;
+  border-radius:30%;
+  display-flex:flex;
+  align-self:center;
+  border:1px solid red
+}
+.Profile{
+  display:flex;
+  align-items:center;
+/*   border:1px solid black; */
+  height: 80vh;
+  justify-content:center;
+}
